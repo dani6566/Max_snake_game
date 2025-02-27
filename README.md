@@ -30,5 +30,5 @@ max-snake-game/
 │── README.md
 
 ## 📸 screenshot image
-![Snake Game Screenshot](image/Screenshot 2025-02-27 134925.png).
+![Snake Game Screenshot](image/Screenshot_image.png).
 
