@@ -29,5 +29,6 @@ max-snake-game/
 │── main.py
 │── README.md
 
-![Snake Game Screenshot](image/screenshot.png)
+## 📸 screenshot image
+![Snake Game Screenshot](image/Screenshot 2025-02-27 134925.png).
 
