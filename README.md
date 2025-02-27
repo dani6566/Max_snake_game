@@ -21,15 +21,15 @@ A classic **Snake Game** built using Python's `turtle` module. Control the snake
    git clone https://github.com/dani6566/Max_snake_game.git
    cd Max_snake_game
 ## 📂 project structure
+
 max-snake-game/
-│── Scripts/
-│   ├── snake.py
-│   ├── food.py
-│   ├── scoreboard.py
-│── main.py
-│── README.md
+│── Scripts/<br>
+│   ├── snake.py<br>
+│   ├── food.py<br>
+│   ├── scoreboard.py<br>
+│── main.py<br>
+│── README.md<br>
 
-
-## 📸 screenshot image
-![Snake Game Screenshot](image/Screenshot_image.png).
+## 📝 License
+#### This project is open-source under the MIT License.
 
