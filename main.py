@@ -1,8 +1,12 @@
 from turtle import Screen
-from snake import Snake
-from food import Food
-from scoreboard import ScoreBoard
+from Scripts.snake import Snake
+from Scripts.food import Food
+from Scripts.scoreboard import ScoreBoard
 import time
+import sys
+import os
+
+sys.path.append(os.path.join("./Scripts"))
 
 screen = Screen()
 
@@ -30,7 +34,7 @@ while game_is_on:
     snake.move()
     #detect collision
     
-    if snake.head.distance(food) < 15:
+    if snake.head.distance(food) < 20:
         score_board.increment_scoreboard()
         snake.extend_snake()
         food.refresh()
